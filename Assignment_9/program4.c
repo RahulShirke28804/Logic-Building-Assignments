@@ -38,7 +38,7 @@ int main()
     scanf("%d", &iValue);
 
     iRet = CountFour(iValue);
-    printf("The number of 2's in the number is : %d", iRet);
+    printf("The number of 4's in the number is : %d", iRet);
 
     return 0;
 
